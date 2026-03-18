@@ -13,4 +13,4 @@ A simple tribute page showcasing structured content, images, and responsive desi
 - CSS
 
 ## 🌐 Live Demo
-(Add link here)
+ https://2300032005klu.github.io/Tribute-Page-Website/
